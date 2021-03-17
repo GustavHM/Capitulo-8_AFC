@@ -6,4 +6,4 @@ Este é o repositório do capítulo "Contribuições da Análise Fatorial Confir
 
 Atenciosamente,
 
-Evandro Maraes Peixoto e Gustavo Henrique Martins.
+Evandro Moraes Peixoto e Gustavo Henrique Martins.
